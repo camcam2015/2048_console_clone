@@ -1,0 +1,7 @@
+D:\VS Projects\2048\2048clone\2048clone\bin\Debug\2048clone.exe.config
+D:\VS Projects\2048\2048clone\2048clone\bin\Debug\2048clone.exe
+D:\VS Projects\2048\2048clone\2048clone\bin\Debug\2048clone.pdb
+D:\VS Projects\2048\2048clone\2048clone\obj\Debug\2048clone.csprojAssemblyReference.cache
+D:\VS Projects\2048\2048clone\2048clone\obj\Debug\2048clone.csproj.CoreCompileInputs.cache
+D:\VS Projects\2048\2048clone\2048clone\obj\Debug\2048clone.exe
+D:\VS Projects\2048\2048clone\2048clone\obj\Debug\2048clone.pdb
